@@ -1,0 +1,23 @@
+body{
+    background: #000;
+}
+h1{
+    color: whitesmoke;
+    background: #000;
+    text-align: center;
+    text-transform: uppercase;
+}
+p{
+    color: whitesmoke;
+    background: #000;
+    text-align: center;
+}
+img{
+    border: 5px solid white;
+    width: 100%;
+    
+}
+div{
+    margin-left: 25%;
+    width: 50%;
+}
